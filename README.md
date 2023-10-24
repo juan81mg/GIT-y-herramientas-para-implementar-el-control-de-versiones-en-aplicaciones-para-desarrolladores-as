@@ -6,6 +6,11 @@ Se trata de un software gratuito de código abierto y posibilita que los/as desa
 
 Git impulsa el trabajo ordenado y colaborativo entre trabajadores/as de un mismo sector y hasta entre diferentes organismos, ya que posibilita la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
 
+# Directorio data-cleaner
+
+Es un paquete para limpieza de datos, según los estándares de limpieza de la SSIPyGA - Gobierno Abierto Argentina
+https://github.com/datosgcba/data-cleaner
+
 # Herramientas utiles para aprender sobre ramas en Git
 
 Hay varias herramientas web para aprender sobre ramas en Git con práctica interactiva:
@@ -15,3 +20,4 @@ GitHub Learning Lab ofrece varios cursos interactivos, incluyendo uno específic
 
 - Git Branching (learngitbranching.js.org):
 Git Branching es una herramienta interactiva en línea que te enseña sobre ramas en Git a través de una interfaz visual y ejercicios prácticos. Te permite crear y fusionar ramas, simular escenarios de conflictos y entender cómo se desarrolla la historia del proyecto con diferentes ramas. La interfaz gráfica facilita la comprensión de los conceptos detrás del trabajo con ramas en Git.
+
