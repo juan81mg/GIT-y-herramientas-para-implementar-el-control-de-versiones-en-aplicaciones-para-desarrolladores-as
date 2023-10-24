@@ -1,3 +1,4 @@
+HEAD
 # Descripcion
 
 El curso trata de como utilizar en proyectos el protocolo Git, que es una herramienta de control de versiones de aplicaciones que permite manejar proyectos de cualquier tamaño. 
